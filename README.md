@@ -1,4 +1,4 @@
-Ejercicio en donde se trabaja con enrutamiento(react-reouter-dom) en su versión 6. La web contiene 3 secciones(Inicio/Blog/Contacto). La sección "Blog" contiene el llamado a una api "jsonplaceholder" en donde se listan 100 posts. Al seleccionar uno de estos posts, se muestra la info del post seleccionado en un nueva vista. Los estilos están realizados con bootstrap 5.1. 
+Ejercicio en donde se trabaja con enrutamiento(react-reouter-dom) en su versión 6. La web contiene 3 secciones(Inicio/Blog/Contacto). La sección "Blog" contiene el llamado a una api "jsonplaceholder" en donde se listan 100 posts. Al seleccionar uno de estos posts, se muestra la info del post seleccionado en un nueva vista. Los estilos están realizados con bootstrap 5.1. También se agrega un ejemplo con context del usuario que se registre y se crea una ruta protegida.
 
 # Getting Started with Create React App
 
